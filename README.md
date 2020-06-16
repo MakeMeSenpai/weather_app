@@ -1,3 +1,6 @@
+# Weather App
+Using a weather API and REACT to create a annonymous day to day submition of how the weather makes you feel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
